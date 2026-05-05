@@ -1,0 +1,14 @@
+# Terraform
+.terraform/
+terraform/.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+
+# Env
+.env
+
+# Large files
+*.zip
+*.tar
+*.gz
