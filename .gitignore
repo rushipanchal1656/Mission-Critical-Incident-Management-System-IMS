@@ -12,3 +12,7 @@ terraform/.terraform/
 *.zip
 *.tar
 *.gz
+
+.DS_Store
+
+8000
