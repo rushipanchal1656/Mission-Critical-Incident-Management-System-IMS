@@ -1,6 +1,5 @@
 # 🚨 Mission-Critical Incident Management System (IMS)
 
-A production-grade, cloud-native Incident Management System designed to handle high-volume signal ingestion, asynchronous processing, intelligent alerting, and RCA-driven incident resolution.
 
 ---
 
