@@ -445,7 +445,7 @@ This project demonstrates:
 # 👤 Author
 
 Rushikesh Panchal
-Cloud & DevOps Engineer
+SRE & DevOps Engineer
 
 GitHub: https://github.com/rushipanchal1656
 LinkedIn: https://www.linkedin.com/in/rushikesh-panchal-devops
