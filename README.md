@@ -448,6 +448,6 @@ Rushikesh Panchal
 Cloud & DevOps Engineer
 
 GitHub: https://github.com/rushipanchal1656
-LinkedIn: https://www.linkedin.com/in/rushikesh-panchal-3869b8241
+LinkedIn: https://www.linkedin.com/in/rushikesh-panchal-devops
 
 ---
