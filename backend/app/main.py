@@ -62,7 +62,7 @@ def metrics():
 
 
 # =========================
-# Signal Ingestion Endpoint
+# Signal Ingestion Endpoint 
 # =========================
 @app.post("/signal")
 def send_signal(component_id: str):

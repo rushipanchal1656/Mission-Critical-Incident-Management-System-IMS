@@ -17,7 +17,7 @@ DATABASE_URL = os.getenv("DATABASE_URL")
 REDIS_HOST = os.getenv("REDIS_HOST", "redis")
 QUEUE_NAME = os.getenv("QUEUE_NAME", "incident_queue")
 
-# DB retry
+
 while True:
     try:
         engine = create_engine(DATABASE_URL)

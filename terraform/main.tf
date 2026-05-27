@@ -3,7 +3,7 @@ provider "aws" {
 }
 
 ############################
-# DEFAULT VPC (NO CUSTOM VPC)
+# DEFAULT VPC 
 ############################
 data "aws_vpc" "default" {
   default = true
@@ -17,7 +17,7 @@ data "aws_subnets" "default" {
 }
 
 ############################
-# EKS CLUSTER (CLEAN)
+# EKS CLUSTER 
 ############################
 module "eks" {
   source  = "terraform-aws-modules/eks/aws"
