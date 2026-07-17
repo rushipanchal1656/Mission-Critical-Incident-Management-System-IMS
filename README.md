@@ -356,7 +356,7 @@ curl http://<NODE-IP>:30007/health
 
 * Stateless API → horizontally scalable
 * Worker → scalable consumers
-* Queue → absorbs spike
+* Queue → absorbs spikes
 * DB retry logic → resilient startup
 
 ---
