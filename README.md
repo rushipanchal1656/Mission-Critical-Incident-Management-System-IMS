@@ -6,7 +6,7 @@ A production-grade, cloud-native Incident Management System designed to handle h
 
 # 📌 Overview
 
-This system simulates a **real-world SRE/DevOps incident platform** where:
+This system simulates a **real-world SRE/DevOps incident platform** where :
 
 * High-volume signals (errors, latency spikes) are ingested
 * Signals are processed asynchronously
