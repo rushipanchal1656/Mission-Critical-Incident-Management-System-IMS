@@ -1,3 +1,5 @@
+# Requirements for backend service
+
 fastapi
 uvicorn
 sqlalchemy

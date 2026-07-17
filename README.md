@@ -35,6 +35,7 @@ Client → FastAPI (API)
 
 
 
+
 ### Components
 
 | Component            | Purpose                                  |
@@ -355,7 +356,7 @@ curl http://<NODE-IP>:30007/health
 
 * Stateless API → horizontally scalable
 * Worker → scalable consumers
-* Queue → absorbs spikes
+* Queue → absorbs spike
 * DB retry logic → resilient startup
 
 ---

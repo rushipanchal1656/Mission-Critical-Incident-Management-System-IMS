@@ -1,3 +1,5 @@
+# Terraform configuration for EKS cluster
+
 terraform {
   required_version = ">= 1.5"
 

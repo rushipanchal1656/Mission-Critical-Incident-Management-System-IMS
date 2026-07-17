@@ -1,3 +1,5 @@
+# Kubernetes Deployment and Service for PostgreSQL
+
 apiVersion: apps/v1
 kind: Deployment
 metadata:

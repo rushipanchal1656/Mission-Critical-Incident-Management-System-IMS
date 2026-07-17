@@ -1,3 +1,5 @@
+# Terraform configuration for EKS cluster
+
 provider "aws" {
   region = "ap-south-1"
 }

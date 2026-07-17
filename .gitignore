@@ -8,7 +8,7 @@ terraform/.terraform/
 # Env
 .env
 
-# Large files
+# Large files 
 *.zip
 *.tar
 *.gz

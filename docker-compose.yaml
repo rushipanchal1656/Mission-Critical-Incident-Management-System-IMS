@@ -1,4 +1,4 @@
-# Docker Compose configuration for local development of the Incident Management System (IMS)
+# Docker Compose configuration for local development of the Incident Management System 
 services:
   api:
     build:

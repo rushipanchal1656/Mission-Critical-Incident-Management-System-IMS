@@ -1,3 +1,5 @@
+# Debounce logic for incident creation to prevent duplicate incidents within a short time window
+
 import redis
 import time
 import os

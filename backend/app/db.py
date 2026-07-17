@@ -1,3 +1,5 @@
+# Database connection and session management for the backend service
+
 import os
 import time
 from sqlalchemy import create_engine

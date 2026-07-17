@@ -1,1 +1,1 @@
-# required for Python package
+# required for Python package initialization
