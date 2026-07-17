@@ -306,7 +306,7 @@ Example:
 api_requests_total
 ```
 
-![Metrics Endpoint](./images/metrics.png)
+![Metrics Endpoint](./images/metrics-logs.png)
 
 ![Performance Graph](./images/graph.png)
 
